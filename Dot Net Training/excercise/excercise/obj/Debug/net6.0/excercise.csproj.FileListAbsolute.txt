@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\excercise\excercise\bin\Debug\net6.0\excercise.exe
+C:\Users\Administrator\source\repos\excercise\excercise\bin\Debug\net6.0\excercise.deps.json
+C:\Users\Administrator\source\repos\excercise\excercise\bin\Debug\net6.0\excercise.runtimeconfig.json
+C:\Users\Administrator\source\repos\excercise\excercise\bin\Debug\net6.0\excercise.dll
+C:\Users\Administrator\source\repos\excercise\excercise\bin\Debug\net6.0\excercise.pdb
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.dll
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\refint\excercise.dll
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.pdb
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\excercise.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\excercise\excercise\obj\Debug\net6.0\ref\excercise.dll

@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\Day20_ConsoleApp\Day20_ConsoleApp\obj\Debug\net7.0\Day20_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day20_ConsoleApp\Day20_ConsoleApp\obj\Debug\net7.0\Day20_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Day20_ConsoleApp\Day20_ConsoleApp\obj\Debug\net7.0\Day20_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Day20_ConsoleApp\Day20_ConsoleApp\obj\Debug\net7.0\Day20_ConsoleApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Day20_ConsoleApp\Day20_ConsoleApp\obj\Debug\net7.0\Day20_ConsoleApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\bin\Debug\net7.0\Linq_examples.exe
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\bin\Debug\net7.0\Linq_examples.deps.json
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\bin\Debug\net7.0\Linq_examples.runtimeconfig.json
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\bin\Debug\net7.0\Linq_examples.dll
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\bin\Debug\net7.0\Linq_examples.pdb
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.dll
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\refint\Linq_examples.dll
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.pdb
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\Linq_examples.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Linq_examples\Linq_examples\obj\Debug\net7.0\ref\Linq_examples.dll
